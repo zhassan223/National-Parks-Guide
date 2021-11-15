@@ -1,0 +1,10 @@
+.parkbutton {
+  padding: 5px;
+  width: 100%;
+  background-color: lightblue;
+  text-align: center;
+  font-size: 18px;
+}
+.parkbutton:hover {
+  transform: scale(1.4);
+}

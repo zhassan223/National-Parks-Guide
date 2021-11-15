@@ -1,0 +1,22 @@
+.act_names {
+  color: darkslategray;
+  padding: 20px;
+  align-items: center;
+  display: flex;
+}
+.act_names:hover {
+  transform: scale(1.2);
+}
+.button {
+  border: black;
+  padding: 30px;
+  width: 100%;
+  text-align: center;
+
+  background-color: lightblue;
+  font-size: 20px;
+  color: black;
+}
+.Link {
+  text-decoration: none;
+}

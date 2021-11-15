@@ -1,0 +1,14 @@
+.header {
+  background-color: darkcyan;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  padding: 10 px;
+  flex-direction: column;
+}
+#para {
+  align-items: center;
+  display: block;
+}
